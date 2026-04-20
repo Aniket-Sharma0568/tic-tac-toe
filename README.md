@@ -60,20 +60,6 @@ The main objectives of this project are:
 - To improve UI/UX design skills using CSS
 - To strengthen problem-solving and logical thinking
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your game interface here after uploading)
-
----
-
-## 🌐 Live Demo
-
-(Add your deployed project link here if hosted on Netlify/Vercel)
-
----
-
 ## 📌 Future Enhancements
 
 - 🤖 Single-player mode with AI (computer opponent)
